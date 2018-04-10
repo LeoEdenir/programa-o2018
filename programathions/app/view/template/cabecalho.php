@@ -1,9 +1,14 @@
-<link rel="stylesheet" href="style.css">
-<style>
+<html>
+<head>
+
+    <title>Lista de Categorias</title>
+    <link rel="stylesheet" >
 
 
-</style>
 
-<div class="header">
-    <h1>Lista de Categorias</h1>
-</div>
+</head>
+
+<h1>Lista de Categorias</h1>
+
+
+<body>

@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="style.css">
+<footer>
 
-<div class="footer">
-  <p>Gean Carlos|Leonardo Edenir|Tainá Vollmann 3info1</p>
-</div>
+
+</footer>
+</body>
+</html>
