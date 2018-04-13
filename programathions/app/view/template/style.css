@@ -1,18 +1,8 @@
-.header{
-    position: fixed;
-    display: block;
-    background-color: #007bff;
-    width: 100%;
-    color: white;
-    text-align: center;
+.rodape{
+    background-color: #e0a800;
+    color: black;
 }
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
+.cabecalho{
+    background-color: #e0a800;
+    color: black;
 }
